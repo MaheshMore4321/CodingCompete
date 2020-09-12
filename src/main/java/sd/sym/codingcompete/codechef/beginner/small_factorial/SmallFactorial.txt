@@ -1,0 +1,29 @@
+All submissions for this problem are available.
+A tutorial for this problem is now available on our blog. Click here to read it.
+You are asked to calculate factorials of some small positive integers.
+
+Input
+An integer t, 1<=t<=100, denoting the number of testcases, followed by t lines, each containing a single integer n, 1<=n<=100.
+
+Output
+For each integer n given at input, display a line with the value of n!
+
+Example
+Sample input:
+4
+1
+2
+5
+3
+Sample output:
+
+1
+2
+120
+6
+Author:	admin
+Tags:	admin
+Date Added:	1-12-2008
+Time Limit:	1 secs
+Source Limit:	2000 Bytes
+Languages:	ADA, ASM, BASH, BF, C, C99 strict, CAML, CLOJ, CLPS, COB, CPP 4.3.2, CPP 6.3, CPP14, CS2, D, ERL, FORT, FS, GO, HASK, ICK, ICON, JAVA, JS, kotlin, LISP clisp, LISP sbcl, LUA, NEM, NICE, NODEJS, PAS fpc, PAS gpc, PERL, PERL6, PHP, PIKE, PRLG, PYPY, PYTH, PYTH 3.5, RUBY, rust, SCALA, SCM chicken, SCM guile, SCM qobi, ST, swift, TEXT, WSPC

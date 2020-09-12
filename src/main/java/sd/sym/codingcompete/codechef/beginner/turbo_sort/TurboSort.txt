@@ -1,0 +1,30 @@
+All submissions for this problem are available.
+Given the list of numbers, you are to sort them in non decreasing order.
+Input
+t – the number of numbers in list, then t lines follow [t <= 10^6]. 
+Each line contains one integer: N [0 <= N <= 10^6]
+
+Output
+Output given numbers in non decreasing order.
+Example
+Input:
+
+5
+5
+3
+6
+7
+1
+Output:
+
+1
+3
+5
+6
+7
+Author:	admin
+Tags:	admin
+Date Added:	1-12-2008
+Time Limit:	5 secs
+Source Limit:	50000 Bytes
+Languages:	ADA, ASM, BASH, BF, C, C99 strict, CAML, CLOJ, CLPS, COB, CPP 4.3.2, CPP 6.3, CPP14, CS2, D, FORT, FS, GO, HASK, ICK, ICON, JAVA, JS, kotlin, LISP clisp, LISP sbcl, LUA, NEM, NICE, NODEJS, PAS fpc, PAS gpc, PERL, PHP, PIKE, PRLG, PYPY, PYTH, PYTH 3.5, RUBY, rust, SCALA, SCM chicken, SCM guile, SCM qobi, ST, swift, TEXT, WSPC

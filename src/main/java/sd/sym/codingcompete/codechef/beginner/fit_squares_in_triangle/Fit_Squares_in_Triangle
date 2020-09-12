@@ -1,0 +1,52 @@
+Fit Squares in Triangle Problem Code: TRISQ Solved Submit
+
+  
+All submissions for this problem are available.
+Read problems statements in Mandarin Chinese and Russian as well.
+What is the maximum number of squares of size 2x2 that can be fit in a right angled isosceles triangle of base B.
+One side of the square must be parallel to the base of the isosceles triangle.
+Base is the shortest side of the triangle
+Input
+First line contains T, the number of test cases.
+Each of the following T lines contains 1 integer B.
+Output
+Output exactly T lines, each line containing the required answer.
+Constraints
+1 ≤ T ≤ 103
+1 ≤ B ≤ 104
+Sample Input
+
+11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Sample Output 
+
+0
+0
+0
+1
+1
+3
+3
+6
+6
+10
+10
+Author:	4★devuy11
+Tester:	6★anudeep2011
+Editorial:	http://discuss.codechef.com/problems/TRISQ
+Tags:	cakewalk, cook55, devuy11, geometry, recursion
+Date Added:	24-12-2014
+Time Limit:	1 secs
+Source Limit:	50000 Bytes
+Languages:	C, CPP14, JAVA, PYTH, PYTH 3.5, CS2, PAS fpc, PAS gpc, RUBY, PHP, GO, NODEJS, HASK, SCALA, D, PERL, FORT, WSPC, ADA, CAML, ICK, BF, ASM, CLPS, PRLG, ICON, SCM qobi, PIKE, ST, NICE, LUA, BASH, NEM, LISP sbcl, LISP clisp, SCM guile, JS, ERL, TCL, PERL6, TEXT, CLOJ, FS
+

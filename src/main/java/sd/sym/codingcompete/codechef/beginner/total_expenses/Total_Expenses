@@ -1,0 +1,38 @@
+Total Expenses Problem Code: FLOW009
+Add problem to Todo list
+Submit
+
+  
+All submissions for this problem are available.
+While purchasing certain items, a discount of 10% is offered if the quantity purchased is more than 1000. 
+If the quantity and price per item are input, write a program to calculate the total expenses.
+
+Input
+The first line contains an integer T, total number of test cases. Then follow T lines, each line contains integers quantity and price.
+
+Output
+Output the total expenses while purchasing items.
+
+Constraints
+1 ≤ T ≤ 1000
+1 ≤ quantity,price ≤ 100000
+Example
+Input
+
+3 
+100 120
+10 20
+1200 20
+
+Output
+
+12000.000000
+200.000000
+21600.000000
+Author:	1★vicky002
+Tags:	vicky002
+Date Added:	27-04-2015
+Time Limit:	1 secs
+Source Limit:	50000 Bytes
+Languages:	C, CPP14, JAVA, PYTH, PYTH 3.5, PYPY, CS2, PAS fpc, PAS gpc, RUBY, PHP, GO, NODEJS, HASK, SCALA, D, PERL, FORT, WSPC, ADA, CAML, ICK, BF, ASM, CLPS, PRLG, ICON, SCM qobi, PIKE, ST, NICE, LUA, BASH, NEM, LISP sbcl, LISP clisp, SCM guile, JS, ERL, TCL, PERL6, TEXT, SCM chicken, CLOJ, FS
+Submit

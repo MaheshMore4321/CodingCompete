@@ -1,0 +1,44 @@
+ 
+All submissions for this problem are available.
+
+Consider a currency system in which there are notes of seven denominations, namely, Rs. 1, Rs. 2, Rs. 5, Rs. 10, Rs. 50, Rs. 100.
+If the sum of Rs. N is input, write a program to computer smallest number of notes that will combine to give Rs. N.
+Input
+
+The first line contains an integer T, total number of testcases. Then follow T lines, each line contains an integer N.
+Output
+
+Display the smallest number of notes that will combine to give N.
+Constraints
+
+    1 ≤ T ≤ 1000
+    1 ≤ N ≤ 1000000
+
+Example
+
+Input
+3 
+1200
+500
+242
+
+Output
+12
+5
+7
+
+Author: 1★vicky002
+
+Tags: vicky002
+
+Date Added: 27-04-2015
+
+Time Limit: 1 secs
+
+Source Limit: 50000 Bytes
+
+Languages: ADA, ASM, BASH, BF, C, C99 strict, CAML, CLOJ, CLPS, CPP 4.3.2, CPP 6.3, CPP14, CS2, D, ERL, FORT, FS, GO, HASK, ICK, ICON, JAVA, JS, LISP clisp, LISP sbcl, LUA, NEM, NICE, NODEJS, PAS fpc, PAS gpc, PERL, PERL6, PHP, PIKE, PRLG, PYPY, PYTH, PYTH 3.5, RUBY, SCALA, SCM chicken, SCM guile, SCM qobi, ST, TCL, TEXT, WSPC
+Submit
+My Submissions
+All Submissions
+Successful Submissions

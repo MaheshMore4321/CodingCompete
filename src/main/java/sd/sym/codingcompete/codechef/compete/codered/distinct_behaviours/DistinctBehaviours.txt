@@ -1,0 +1,49 @@
+
+"The blood of House of El will always bind us together."
+
+What the Kryptonians need is to be together, to be united in order to save the apocalypse.
+
+For that, Seg-El has decided to carry out some encoding. The people of the same behavior if made to stay together will lead to enhanced protection of Krypton.
+
+There are N people on Krypton. Each has a behavior A[i] associated with him/her.
+
+You need to tell Seg-El the total number of ways to choose any two people of same behavior so that they can be made to stay together.
+
+ 
+
+Input
+First line consists of N - the number of people.
+
+Second line comprises N space separated integers denoting A[i].
+
+ 
+
+Output
+Print the answer to the number of ways to place 2 people together having same behaviour.
+
+ 
+
+Constraints
+1 ≤ N ≤ 100000
+1 ≤ A[i] ≤ 1015
+ 
+
+Example
+Input:
+
+4
+
+1 1 2 2
+
+Output:
+
+ 2
+
+Explanation
+There is only 1 way in which 2 people with behavior 1 can be together. Similarly, for behavior 2 people. Hence, total number of ways are 2.
+
+Author:	5★shivamg_isc
+Date Added:	4-02-2018
+Time Limit:	1 secs
+Source Limit:	50000 Bytes
+Languages:	C, CPP 4.3.2, CPP 6.3, CPP14, JAVA, PYTH, PYTH 3.5

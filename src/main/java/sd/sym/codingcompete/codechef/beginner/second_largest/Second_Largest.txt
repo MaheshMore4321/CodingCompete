@@ -1,0 +1,40 @@
+All submissions for this problem are available.
+
+Three numbers A, B and C are the inputs. Write a program to find second largest among three numbers.
+Input
+
+The first line contains an integer T, total number of testcases. Then follow T lines, each line contains three integers A, B and C.
+Output
+
+Display the second largest among A, B and C.
+Constraints
+
+    1 ≤ T ≤ 1000
+    1 ≤ A,B,C ≤ 1000000
+
+Example
+
+Input
+3 
+120 11 400
+10213 312 10
+10 3 450
+
+Output
+
+120
+312
+10
+
+Author: 1★vicky002
+
+Tags: vicky002
+
+Date Added: 27-04-2015
+
+Time Limit: 1 secs
+
+Source Limit: 50000 Bytes
+
+Languages: ADA, ASM, BASH, BF, C, C99 strict, CAML, CLOJ, CLPS, CPP 4.3.2, CPP 6.3, CPP14, CS2, D, ERL, FORT, FS, GO, HASK, ICK, ICON, JAVA, JS, LISP clisp, LISP sbcl, LUA, NEM, NICE, NODEJS, PAS fpc, PAS gpc, PERL, PERL6, PHP, PIKE, PRLG, PYPY, PYTH, PYTH 3.5, RUBY, SCALA, SCM chicken, SCM guile, SCM qobi, ST, TCL, TEXT, WSPC
+Submi
